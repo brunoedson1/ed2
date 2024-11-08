@@ -1,0 +1,4 @@
+/home/bruno/Documentos/ufjf_2024_3/ed2/01_libraries-cxx/build/CMakeFiles/Message.dir
+/home/bruno/Documentos/ufjf_2024_3/ed2/01_libraries-cxx/build/CMakeFiles/hello-world.dir
+/home/bruno/Documentos/ufjf_2024_3/ed2/01_libraries-cxx/build/CMakeFiles/edit_cache.dir
+/home/bruno/Documentos/ufjf_2024_3/ed2/01_libraries-cxx/build/CMakeFiles/rebuild_cache.dir
